@@ -4,7 +4,7 @@ seo-title: 'Adobe Experience Manager: Nuevas experiencias de asistencia técnica
 description: 'Adobe Experience Manager: Nuevas experiencias de asistencia técnica próximamente'
 seo-description: 'Adobe Experience Manager: Nuevas experiencias de asistencia técnica próximamente'
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
 
 ---
 
@@ -29,7 +29,9 @@ Como administrador del sistema, tiene acceso al [!DNL Adobe Admin Console Suppor
 * Iniciar conversaciones de chat de forma conveniente con [!DNL Adobe Customer Support]
 * Conceder acceso al portal al usuario de asistencia técnica
 
-Confirme que acepta esta función (o proporciona un punto de contacto alternativo) como administrador del sistema de su organización para productos de Adobe Experience Manager/Adobe Campaign. Para ello, complete y envíe el [[!Formulario de confirmación de administración del sistema DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) antes del 4 de noviembre de 2019.  Al completar este formulario, se asegurará de que se asignen las credenciales adecuadas al administrador del sistema designado por su organización.
+>[!NOTE]
+>Confirme que acepta esta función (o proporciona un punto de contacto alternativo) como administrador del sistema de su organización para los productos de Adobe Experience Manager **completando y enviando el[[!Formulario de confirmación de administración del sistema DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)antes del 4 de noviembre de 2019**.
+>Al completar este formulario, se asegurará de que se asignen las credenciales adecuadas al administrador del sistema designado por su organización.
 
 Se enviará una confirmación por correo electrónico cuando reciba el [[!Formulario de confirmación de administración del sistema DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
 
