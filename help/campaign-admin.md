@@ -4,7 +4,7 @@ seo-title: Adobe Campaign - Próxima experiencia de asistencia técnica empresar
 description: Adobe Campaign - Próxima experiencia de asistencia técnica empresarial
 seo-description: Adobe Campaign - Próxima experiencia de asistencia técnica empresarial
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 04916e8a64ca2043e5fdc08b89fdb174acb694af
 
 ---
 
@@ -30,7 +30,7 @@ Como administrador del sistema, tiene acceso al [!DNL Adobe Admin Console Suppor
 * Conceder acceso al portal al usuario de asistencia técnica
 
 >[!NOTE]
->Confirme que acepta esta función (o proporciona un punto de contacto alternativo) como administrador del sistema de su organización para productos de Adobe Experience Manager/Adobe Campaign. Para ello, complete y envíe el [!DNL System Admin Confirmation Form] informe antes del 4 de noviembre de 2019.\
+>Confirme que acepta esta función (o proporciona un punto de contacto alternativo) como administrador del sistema de su organización para los productos de Adobe Campaign. Para ello, complete y envíe el [!DNL System Admin Confirmation Form] informe antes del 4 de noviembre de 2019.\
 >Al completar este formulario, se asegurará de que se asignen las credenciales adecuadas al administrador del sistema designado por su organización.
 
 Después de enviar el [!DNL System Admin Confirmation Form], usted no necesitará ninguna acción adicional en este momento.  Nos pondremos en contacto con los administradores del sistema para conocer los próximos pasos a principios de 2020.
