@@ -4,7 +4,7 @@ seo-title: Adobe Campaign - Próxima experiencia de asistencia técnica empresar
 description: Adobe Campaign - Próxima experiencia de asistencia técnica empresarial
 seo-description: Adobe Campaign - Próxima experiencia de asistencia técnica empresarial
 translation-type: tm+mt
-source-git-commit: ab441fe873ce4b5d85a478290186eb1593905454
+source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 
 ---
 
@@ -23,10 +23,10 @@ Para empezar, necesitamos su ayuda para confirmar quién será el administrador 
 
 Nuestros registros indican que usted es un administrador del sistema **designado dentro de su organización**, la persona responsable de administrar y enviar solicitudes de asistencia para estos productos de Adobe.
 
-Como administrador del sistema, tiene acceso al [!DNL Adobe Admin Console Support Tab] que le permite:
+Como administrador del sistema, tiene acceso al [!DNL Adobe Admin Console Support Portal] que le permite:
 
 * Explorar las funciones de administración de casos mejoradas
-* Iniciar conversaciones de chat de forma conveniente con [!DNL Adobe Customer Care]
+* Iniciar conversaciones de chat de forma conveniente con [!DNL Adobe Customer Support]
 * Conceder acceso al portal al usuario de asistencia técnica
 
 >[!NOTE]
