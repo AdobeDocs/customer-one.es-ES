@@ -4,7 +4,7 @@ description: 'Se acerca su nueva experiencia de asistencia al cliente de Adobe: 
 seo-title: 'Se acerca su nueva experiencia de asistencia al cliente de Adobe: contacto de implementación de AEM'
 seo-description: 'Se acerca su nueva experiencia de asistencia al cliente de Adobe: contacto de implementación de AEM'
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 17aec30cc46915788f30b9f2042ccb8a6ce6fdbf
 
 ---
 
@@ -27,7 +27,9 @@ Como administrador del sistema, tiene acceso al [!DNL Adobe Admin Console Suppor
 * Iniciar conversaciones de chat de forma conveniente con [!DNL Adobe Customer Support]
 * Conceder acceso al portal al usuario de asistencia técnica
 
-Confirme que acepta esta función (o proporciona un punto de contacto alternativo) como administrador del sistema de su organización para productos de Adobe Experience Manager/Adobe Campaign. Para ello, complete y envíe el [[!Formulario de confirmación de administración del sistema DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) antes del 4 de noviembre de 2019. Al completar este formulario, se asegurará de que se asignen las credenciales adecuadas al administrador del sistema designado por su organización y nos permitirá proporcionar más detalles para ayudar a su organización a prepararse para los próximos cambios.
+>[!NOTE]
+>Confirme que acepta esta función (o proporciona un punto de contacto alternativo) como administrador del sistema de su organización para los productos de Adobe Experience Manager **completando y enviando el[[!Formulario de confirmación de administración del sistema DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)antes del 4 de noviembre de 2019**.
+>Al completar este formulario, se asegurará de que se asignen las credenciales adecuadas al administrador del sistema designado por su organización y nos permitirá proporcionar más detalles para ayudar a su organización a prepararse para los próximos cambios.
 
 Se enviará una confirmación por correo electrónico cuando reciba el [[!Formulario de confirmación de administración del sistema DNL]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 
