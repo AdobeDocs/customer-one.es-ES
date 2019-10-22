@@ -1,10 +1,10 @@
 ---
-title: 'Se acerca su nueva experiencia de asistencia al cliente de Adobe: Implementación de campañas contacto'
-description: 'Se acerca su nueva experiencia de asistencia al cliente de Adobe: Implementación de campañas contacto'
-seo-title: 'Se acerca su nueva experiencia de asistencia al cliente de Adobe: Implementación de campañas contacto'
-seo-description: 'Se acerca su nueva experiencia de asistencia al cliente de Adobe: Implementación de campañas contacto'
+title: 'Ya está llegando su nueva experiencia de asistencia al cliente de Adobe: [!DNL Campaign] implemente contacto'
+description: 'Ya está llegando su nueva experiencia de asistencia al cliente de Adobe: [!DNL Campaign] implemente contacto'
+seo-title: 'Ya está llegando su nueva experiencia de asistencia al cliente de Adobe: [!DNL Campaign] implemente contacto'
+seo-description: 'Ya está llegando su nueva experiencia de asistencia al cliente de Adobe: [!DNL Campaign] implemente contacto'
 translation-type: tm+mt
-source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
+source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
 
 ---
 
