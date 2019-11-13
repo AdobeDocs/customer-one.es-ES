@@ -3,7 +3,7 @@ title: '[!DNL Campaign]: llega una nueva experiencia de asistencia al cliente'
 seo-title: 'Adobe Campaign: llega una nueva experiencia de asistencia al cliente empresarial'
 description: 'Adobe Campaign: llega una nueva experiencia de asistencia al cliente empresarial'
 seo-description: 'Adobe Campaign: llega una nueva experiencia de asistencia al cliente empresarial'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 85695d0bbd02d3ffd2286cdaa643551340b5d09d
 
 ---
@@ -26,14 +26,14 @@ Nuestros registros indican que usted es el **administrador del sistema designado
 Como administrador del sistema, tiene acceso al [!DNL Adobe Admin Console Support Portal], lo que le permite lo siguiente:
 
 * Explorar las funciones mejoradas de administración de casos.
-* Iniciar conversaciones de chat a su conveniencia con [!DNL Adobe Customer Support].
+* Iniciar conversaciones de chat a su conveniencia con [!DNL Adobe Customer Support]
 * Conceder acceso al portal al usuario de asistencia al cliente.
 
 >[!NOTE]
 >Confirme que acepta esta función (de lo contrario, proporcione un punto de contacto alternativo) como administrador del sistema de su organización para productos de Adobe Campaign **completando y enviando el [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) antes del 4 de noviembre de 2019**.
 >Al completar este formulario, se asegurará de que se asignen las credenciales adecuadas al administrador del sistema designado por su organización.
 
-An email confirmation will be sent upon receipt of the [!DNL System Admin Confirmation Form].
+Se enviará una confirmación por correo electrónico cuando recibamos el [!DNL System Admin Confirmation Form].
 
 Si tiene alguna pregunta relacionada con este correo electrónico, póngase en contacto con nosotros a través de la dirección customercare@adobe.com.
 
