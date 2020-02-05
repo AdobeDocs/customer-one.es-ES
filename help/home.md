@@ -1,8 +1,8 @@
 ---
-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One para empresas
 description: Nueva experiencia de asistencia al cliente de Adobe
 seo-description: Nueva experiencia de asistencia al cliente de Adobe
-seo-title: Adobe Experience Cloud Customer One for Enterprise
+seo-title: Adobe Experience Cloud Customer One para empresas
 translation-type: tm+mt
 source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 
@@ -13,7 +13,7 @@ source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 
 Nos preocupamos por nuestros clientes y estamos trabajando para facilitar la obtención de ayuda de la asistencia al cliente de Adobe cuando nuestros clientes necesitan ayuda, empezando por los productos de Adobe Experience Manager y Campaign. Nuestra visión es optimizar la experiencia de asistencia al pasar a un moderno portal de entrada, el portal de asistencia de la Consola de administración de Adobe. Tenemos previsto implantar estos cambios en mayo de 2020.  Una vez que esté activa, su organización podrá acceder al servicio de asistencia al cliente de Adobe; tener una mayor visibilidad del historial de servicios a través de un portal de entrada común; y solicitar ayuda por teléfono, web y chat a través de un único portal.
 
-Seguiremos proporcionando más información a su organización a medida que nos acerquemos a la implementación.
+Seguiremos proporcionando más información a su organización a medida que nos aproximemos a la fecha de despliegue.
 
 ## Más información
 
