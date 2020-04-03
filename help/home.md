@@ -1,8 +1,8 @@
 ---
-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One para empresas
 description: Nueva experiencia de asistencia al cliente de Adobe
 seo-description: Nueva experiencia de asistencia al cliente de Adobe
-seo-title: Adobe Experience Cloud Customer One for Enterprise
+seo-title: Adobe Experience Cloud Customer One para empresas
 translation-type: tm+mt
 source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 
@@ -47,4 +47,4 @@ Envíenos un correo electrónico a [customercare@adobe.com](mailto:customercare@
 Antes del 11 de mayo, aún puede utilizar los sistemas de gestión de casos heredados de [Campaña Extranet](https://support.neolane.net/webApp/extranetLogin) o [Experience Manager Daycare](https://daycare.day.com/home.html) .  A partir del 11 de mayo, será redirigido a la Consola [de](https://adminconsole.adobe.com/) administración, ya que estos sistemas se retirarán del mercado en ese momento.
 
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+Si tiene alguna pregunta relacionada con este correo electrónico, póngase en contacto con nosotros a través de la dirección [customercare@adobe.com](mailto:customercare@adobe.com).
