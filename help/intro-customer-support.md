@@ -1,7 +1,7 @@
 ---
 title: Anuncio de la nueva experiencia de asistencia al cliente de Adobe
-description: Primera comunicación con el cliente para una nueva experiencia de asistencia
-translation-type: tm+mt
+description: Primera comunicación con el cliente sobre la nueva experiencia de asistencia
+translation-type: ht
 source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 
 ---
