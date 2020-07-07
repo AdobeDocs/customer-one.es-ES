@@ -1,45 +1,45 @@
 ---
-title: '[!Campaña DNL]: se viene una nueva experiencia de soporte'
-seo-title: 'Adobe Campaign: Llega una nueva experiencia de asistencia empresarial'
-description: 'Adobe Campaign: Llega una nueva experiencia de asistencia empresarial'
-seo-description: 'Adobe Campaign: Llega una nueva experiencia de asistencia empresarial'
+title: '[!DNL Campaign]: llega una nueva experiencia de asistencia al cliente'
+seo-title: 'Adobe Campaign: llega una nueva experiencia de asistencia al cliente empresarial'
+description: 'Adobe Campaign: llega una nueva experiencia de asistencia al cliente empresarial'
+seo-description: 'Adobe Campaign: llega una nueva experiencia de asistencia al cliente empresarial'
 translation-type: tm+mt
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Campaign]: Llega una nueva experiencia de asistencia
+# [!DNL Campaign]: llega una nueva experiencia de asistencia al cliente
 
 **21 de octubre de 2019**
 
-Estamos trabajando en algunas mejoras clave en la experiencia de asistencia técnica para nuestros clientes de Adobe Campaign. Estos cambios, *que planeamos implementar en abril/mayo de 2020*, permitirán a su organización acceder a [!DNL Adobe Customer Support] y proporcionarle una mayor visibilidad a su historial de servicios a través de un portal de entrada común.
+Estamos trabajando en algunas mejoras clave en relación con la experiencia de asistencia al cliente que ofrecemos a nuestros clientes de Adobe Campaign. Estos cambios, *que planificamos implementar en abril/mayo de 2020*, permitirán a su organización acceder a [!DNL Adobe Customer Support] y proporcionar una mayor visibilidad de su historial de servicios gracias a un portal de entrada común.
 
-Seguiremos proporcionando más información a su organización a medida que nos acerquemos a la implementación.
+Seguiremos proporcionando más información a su organización a medida que nos aproximemos a la fecha de implementación.
 
-Para empezar, necesitamos que nos confirme quién será el administrador del sistema en nombre de su organización.
+En primer lugar, necesitamos su ayuda para confirmar quién será el administrador del sistema en nombre de su organización.
 
-## ACCIÓN: Confirme el Administrador del sistema (System Admin)
+## ACCIÓN: Confirmar el administrador del sistema
 
-Nuestros registros indican que usted es un **administrador del sistema designado dentro de su organización**, la persona responsable de administrar y enviar solicitudes de asistencia para estos productos de Adobe.
+Nuestros registros indican que usted es el **administrador del sistema designado para su organización**; es decir, la persona responsable de administrar y enviar solicitudes de asistencia para estos productos de Adobe.
 
-Como administrador del sistema, tiene acceso a [!DNL Adobe Admin Console Support Portal], que le permite:
+Como administrador del sistema, tiene acceso al [!DNL Adobe Admin Console Support Portal], lo que le permite lo siguiente:
 
-* Explorar las funciones de administración de casos mejoradas
-* Iniciar conversaciones de chat de forma conveniente con [!DNL Adobe Customer Support]
-* Conceder acceso al portal al usuario de asistencia técnica
+* Explorar las funciones mejoradas de administración de casos.
+* Iniciar conversaciones de chat a su conveniencia con [!DNL Adobe Customer Support]
+* Conceder acceso al portal al usuario de asistencia al cliente.
 
 >[!NOTE]
 >
->Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Campaign products by **completing and submitting the[[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)by November 4, 2019**.
+>Confirme que acepta esta función (de lo contrario, proporcione un punto de contacto alternativo) como administrador del sistema de su organización para productos de Adobe Campaign **completando y enviando el [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) antes del 4 de noviembre de 2019**.
 >
->Al completar este formulario, se asegurará de que se asignen las credenciales adecuadas al Administrador del sistema designado por su organización.
+>Al completar este formulario, se asegurará de que se asignen las credenciales adecuadas al administrador del sistema designado por su organización.
 
-Se enviará una confirmación por correo electrónico al recibir la [!DNL System Admin Confirmation Form].
+Se enviará una confirmación por correo electrónico cuando recibamos el [!DNL System Admin Confirmation Form].
 
-Si tiene alguna pregunta relacionada con este correo electrónico, contacte con nosotros en customercare@adobe.com.
+Si tiene alguna pregunta relacionada con este correo electrónico, póngase en contacto con nosotros a través de la dirección customercare@adobe.com.
 
 Saludos cordiales y gracias por su ayuda.
