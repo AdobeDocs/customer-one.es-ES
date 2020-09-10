@@ -3,9 +3,9 @@ title: '[!DNL Campaign]: llega una nueva experiencia de asistencia al cliente'
 seo-title: 'Adobe Campaign: llega una nueva experiencia de asistencia al cliente empresarial'
 description: 'Adobe Campaign: llega una nueva experiencia de asistencia al cliente empresarial'
 seo-description: 'Adobe Campaign: llega una nueva experiencia de asistencia al cliente empresarial'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
 ht-degree: 100%
 
