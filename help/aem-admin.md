@@ -3,9 +3,9 @@ title: 'AEM: nueva experiencia de asistencia al cliente'
 seo-title: 'Adobe Experience Manager: una nueva experiencia de asistencia al cliente está a punto de llegar'
 description: 'Adobe Experience Manager: una nueva experiencia de asistencia al cliente está a punto de llegar'
 seo-description: 'Adobe Experience Manager: una nueva experiencia de asistencia al cliente está a punto de llegar'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
 ht-degree: 100%
 
