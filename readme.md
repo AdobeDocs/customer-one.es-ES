@@ -2,11 +2,11 @@
 source-git-commit: 8793dc81180ae19fcfca3fe3e3fd71f72e59e992
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '94'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-# Contenido para la migración a Customer One for Enterprise (proyecto Parkour X)
+# Contenido para la migración a Customer One for Enterprise (Proyecto Parkour X)
 
 | EXL-PR | EXL | Previsualización | Activar | Publicado | Ayuda |
 |--- |--- |--- |--- |--- |--- |
