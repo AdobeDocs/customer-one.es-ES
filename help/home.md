@@ -5,18 +5,16 @@ description: Nueva experiencia de asistencia al cliente de Adobe
 seo-description: Nueva experiencia de asistencia al cliente de Adobe
 seo-title: Adobe Experience Cloud Customer One para Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 357138a560041a9832cfe8a4f61ec8724b73ba41
+source-git-commit: 4c8b47631dee3b3a4acb438dfe37ca336a8c99a8
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '784'
 ht-degree: 3%
 
 ---
 
-# Nueva experiencia de asistencia al cliente de Adobe
+# Experiencia de asistencia al cliente de Adobe
 
 ## Tickets de asistencia al Admin Console
-
-Estamos encantados de anunciar que la experiencia de asistencia al cliente de Adobe estará activa desde el 11 de mayo de 2020.
 
 Los tickets de asistencia ahora se pueden enviar a través del [Admin Console](https://adminconsole.adobe.com/). Para obtener instrucciones sobre cómo enviar un ticket de soporte, revise la sección para [enviar un ticket de soporte](#submit-ticket).
 
