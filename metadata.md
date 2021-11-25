@@ -6,12 +6,12 @@ solution-image: help/assets/experience-cloud-logo-24.png
 getting-started-title: Introducción
 getting-started-url: https://experienceleague.adobe.com/?lang=es#recommended/solutions/analytics
 tutorials-title: Tutoriales
-tutorials-url: https://experienceleague.adobe.com/
+tutorials-url: https://experienceleague.adobe.com/?lang=es#recommended/solutions/analytics
 git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.es-ES
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 50698f35a69ce3a34b41e54d6e38e05c35490351
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
