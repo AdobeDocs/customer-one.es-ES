@@ -3,10 +3,10 @@ title: Anuncio de la nueva experiencia de asistencia al cliente de Adobe
 description: Comunicación del cliente para una nueva experiencia de asistencia
 hide: true
 hidefromtoc: true
-source-git-commit: 4bd3f83f5142f53d24cfe1bdaaed4d4507fc0687
+source-git-commit: d81a6d3edb3ff82e49162db4cd00923e20dba28f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '455'
+ht-degree: 5%
 
 ---
 
@@ -38,7 +38,7 @@ Además, los administradores de sistemas de asistencia técnica podrán:
 
 ## Qué puede esperar a continuación
 
-**Febrero/marzo: configuración de usuario**
+**Febrero/marzo de 2022: Configuración de usuario**
 
 * Configuración de usuarios de asistencia conocidos en el sistema de portal como administradores de asistencia al cliente
 * Los correos electrónicos generados por el sistema se enviarán a los usuarios configurados por Adobe
@@ -47,7 +47,7 @@ Además, los administradores de sistemas de asistencia técnica podrán:
 >
 >En esta etapa, el portal aún no está activo para presentar casos de apoyo.
 
-**Abril: Habilitación**
+**Abril de 2022 - Habilitación**
 
 * Se proporcionará material didáctico a todos los usuarios del sistema de portales
 * Administrador del sistema/contactos designados para finalizar la configuración y las funciones de los usuarios de asistencia técnica
