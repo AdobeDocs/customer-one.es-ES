@@ -1,49 +1,50 @@
 ---
-title: Announcing the New Adobe Customer Support Experience (previous announcement)
-description: First customer communication for new support experience
+title: Anuncio de la nueva experiencia de asistencia al cliente de Adobe (anuncio previo)
+description: Primera comunicación con el cliente sobre la nueva experiencia de asistencia
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 1%
+ht-degree: 97%
 
 ---
 
 # Nueva experiencia de asistencia al cliente de Adobe
 
-We care about our customers and are working to make it easier to get help from Adobe Customer Support when our customers need assistance – starting with Adobe Experience Manager and Campaign products. Our vision is to streamline the support experience by moving to a modern entry portal, the Adobe Admin Console Support Portal. We plan to roll out these changes in May 2020. Once live, your organization will be able to access Adobe Customer Support; have greater visibility into your service history via a common entry portal; and request help via phone, web and chat through a single portal.
+Nos preocupamos por nuestros clientes y por eso trabajamos para que obtengan la ayuda que necesitan del equipo de asistencia al cliente de Adobe, empezando por los productos de Adobe Experience Manager y Campaign. Nuestra visión es optimizar la experiencia de asistencia con un moderno portal de acceso: el portal de asistencia de Adobe Admin Console. Tenemos previsto implementar estos cambios en mayo de 2020. Una vez en funcionamiento, su organización podrá acceder al servicio de asistencia al cliente de Adobe, tener una mayor visibilidad del historial de servicios a través de un portal de acceso común, y solicitar ayuda por teléfono, sitio web y chat a través de un solo portal.
 
 ## Más información
 
-In February and March, Adobe will be setting up both the new Support System Administrators and Support Users in this portal. If our records indicate that you currently act as a Support System Administrator in Adobe’s Admin Console – or – your name was listed on the purchase contract as Adobe’s customer contact for deploying Adobe Campaign and/or Adobe Experience Manager within your organization, you will be set up as the Support System Administrator for your organization.
-Support System Administrators will act as super users in the Admin Console and will see system generated emails whenever a new support user is created. In addition, they will be able to:
+En febrero y marzo, Adobe configurará los nuevos administradores de sistemas de asistencia técnica y los usuarios de asistencia técnica en este portal. Si nuestros registros indican que usted tiene el rol de administrador del sistema de asistencia en Admin Console de Adobe o que su nombre figura en el contrato de compra como contacto del cliente de Adobe para implementar Adobe Campaign o Adobe Experience Manager en su organización, será el administrador del sistema de asistencia técnica de su organización.
+Los administradores del sistema de asistencia técnica actuarán como superusuarios en Admin Console y verán los correos electrónicos generados por el sistema cada vez que se cree un usuario nuevo de asistencia técnica. Además, podrán hacer lo siguiente:
 
-* Create/remove support users in the portal and govern access roles
-* Take advantage of case management tools that make it easier to work through support cases with Adobe Customer Support
-* Conveniently initiate chat conversations with Adobe Customer Support
+* Crear o eliminar usuarios de asistencia técnica en el portal y administrar las funciones de acceso
+* Aprovechar las herramientas de administración de casos que facilitan la coordinación de casos de asistencia técnica con la asistencia al cliente de Adobe
+* Iniciar conversaciones de chat de forma conveniente con el equipo de asistencia al cliente de Adobe
 
-## What to expect during the next few months
+## Qué esperar en los próximos meses
 
-### February - User Set Up
+### Febrero: Configuración de usuario
 
-* Adobe to set up known System Admin; Contract Contacts &amp; known Support Users in new system
-* System generated emails sent - users set up and system live for user creation/validation only
+* Adobe configurará el administrador del sistema conocido, los contactos que figuran en el contrato y los usuarios de asistencia técnica conocidos en el nuevo sistema.
+* Envío de correos electrónicos generados por el sistema: los usuarios los configurarán y el sistema estará activo solo para crear y validar los usuarios.
 
 
-### March - User Validation
+### Marzo: Validación de usuarios
 
-* Adobe to contact System Admin/Contract Contacts with next steps System Admin/Contract Contacts to validate the existing support users and create any missing support users in new system
+* Adobe se pondrá en contacto con el administrador del sistema o los contactos que figuran en el contrato con información adicional sobre cómo seguir adelante.
+El administrador del sistema o los contactos que figuran en el contrato validarán los usuarios de asistencia existentes y crearán aquellos que falten en el nuevo sistema.
 
-### April - Enablement
+### Abril: Habilitación
 
-* Adobe to provide learning materials to all support system users
-* System Admin/Contract Contacts to finalize support user set up and roles
+* Adobe proporcionará materiales de aprendizaje a todos los usuarios del sistema de asistencia técnica.
+* El administrador del sistema o los contactos que figuran en el contrato finalizarán la configuración y las funciones de los usuarios de asistencia técnica.
 
-### May - Launch!
+### Mayo: Lanzamiento
 
-* Adobe to announce launch of new system
-* Customers begin using new system
+* Adobe anunciará el lanzamiento del sistema nuevo.
+* Los clientes empezarán a utilizar el sistema nuevo.
 
-[](mailto:customercare@adobe.com)
+Si tiene alguna pregunta relacionada con este correo electrónico, póngase en contacto con nosotros a través de la dirección [customercare@adobe.com](mailto:customercare@adobe.com).
