@@ -14,14 +14,14 @@ ht-degree: 0%
 
 # Metadatos para uso interno
 
-El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a los archivos TOC.md de la guía del usuario en el repositorio. Si desea cambiar el contenido de metadata.md para cualquier guía del usuario, hágalo en cualquier archivo TOC.md.
+El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a los archivos TOC.md de la guía del usuario en el repositorio. Si desea cambiar el contenido del archivo metadata.md para cualquier guía del usuario, hágalo en cualquier archivo TOC.md.
 
-| metadata | lo que hace |
+| metadatos | función |
 |--- |--- |
-| solution-title | Se utiliza en el encabezado del artículo como vínculo |
-| solution-hub-url | Abre la página del centro de ayuda |
-| solution-icon | Muestra el icono de solución junto al título de la solución. No se ha implementado aún |
-| getting-started-url | Vínculo a la página de primeros pasos de la ayuda |
-| tutorials-url | Vínculo a tutoriales de vídeo: tutoriales de ayuda o tutoriales de KT |
-| mini-toc-levels | Determina el número de niveles de encabezado que aparecen en el carril derecho. el valor predeterminado es 2 |
-| git-repo | Especifica la ubicación de la reposición principal para uso interno |
+| solution-title | Se utiliza en el encabezado del artículo como vínculo. |
+| solution-hub-url | Abre la página del centro de ayuda. |
+| solution-icon | Muestra el icono de la solución junto al título de la solución. No se ha implementado aún. |
+| getting-started-url | Vínculo a la página de introducción de la ayuda. |
+| tutorials-url | Vínculo a tutoriales de vídeo: tutoriales de ayuda o tutoriales de KT. |
+| mini-toc-levels | Determina el número de niveles de encabezado que aparecen en el carril derecho. El valor predeterminado es 2. |
+| git-repo | Especifica la ubicación del repositorio principal para uso interno. |
