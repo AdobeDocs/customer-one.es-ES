@@ -5,10 +5,10 @@ description: Nueva experiencia de asistencia al cliente de Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 22c446a683e21574c3db4b24879a1d072cdd5a3d
+source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
 workflow-type: tm+mt
-source-wordcount: '655'
-ht-degree: 75%
+source-wordcount: '664'
+ht-degree: 74%
 
 ---
 
@@ -24,14 +24,16 @@ Estamos trabajando para mejorar su interacción con el servicio de asistencia al
 
 Ofrecemos una serie de reuniones en línea en las que los clientes pueden plantear sus preguntas sobre el nuevo proceso de asistencia. Seleccione una o varias para unirse:
 
-| Detalle | Día | Fecha | Vínculos de registro |
-|--- |--- |--- |--- |
-| [7 de abril a las 8 am PT](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) | Jueves | 7 de abril | <https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85> |
-| [7 de abril a las 5 pm PT](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) | Jueves | 7 de abril | <https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C> |
-| [20 de abril a las 8 am PT](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) | Mié | 20 de Abril | <https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2> |
-| [20 de abril a las 5 pm PT](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) | Mié | 20 de Febrero | <https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16> |
-| [21 de abril a las 8 am PT](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) | Jueves | 21 de abril | <https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98> |
-| [21 de abril a las 5 pm PT](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) | Jueves | 21 de abril | <https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446> |
+| Fecha y hora | Vínculo de registro |
+|--- |--- |
+| Jueves, 7 de abril a las 8 am PT | [Vínculo de evento](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
+| Jueves, 7 de abril a las 5 p. m. PT | [Vínculo de evento](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
+| Miércoles, 20 de abril a las 8 am PT | [Vínculo de evento](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
+| Miércoles, 20 de abril a las 5 pm PT | [Vínculo de evento](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
+| Jueves, 21 de abril a las 8 am PT | [Vínculo de evento](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
+| Jueves, 21 de abril a las 5 p. m. PT | [Vínculo de evento](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## Envío de tickets de asistencia en Admin Console {#submit-ticket}
 
