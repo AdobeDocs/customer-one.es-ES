@@ -1,58 +1,58 @@
 ---
 title: Nueva experiencia de asistencia al cliente de Adobe
-description: Comunicación del cliente para una nueva experiencia de asistencia
+description: Comunicación con el cliente sobre la nueva experiencia de atención
 hide: true
 hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 # Nueva experiencia de asistencia al cliente de Adobe
 
-Nos preocupamos por nuestros clientes y estamos trabajando para que sea más fácil obtener ayuda de la Asistencia al cliente de Adobe cuando nuestros clientes necesitan ayuda. Adobe is enhancing the way you receive customer support for Adobe Analytics, Target, and Audience Manager by streamlining the experience through a single entry support portal, the Adobe Admin Console. Esta transición permitirá una buena visibilidad de su historial de servicios y le permitirá solicitar asistencia por teléfono, Web y chat a través de una plataforma común. Se prevé que estos cambios se produzcan en abril de 2022.
+Nos preocupamos por nuestros clientes y por eso trabajamos para que obtengan la ayuda que necesitan del equipo de Atención al cliente de Adobe. Adobe va a mejorar la forma en la que recibe atención al cliente para Adobe Analytics, Target y Audience Manager optimizando la experiencia mediante un único portal: Adobe Admin Console. Gracias a esta transición, obtendrá una visibilidad más exhaustiva del historial de servicios y podrá solicitar atención por teléfono, web y chat a través de una plataforma común. Se prevé que estos cambios se produzcan en abril del 2022.
 
-Seguiremos proporcionando más información a su organización a medida que nos aproximemos a la fecha de despliegue.
+Seguiremos proporcionando más información a su organización a medida que nos aproximemos a la fecha de implementación.
 
 ## Más información
 
-Durante febrero y marzo de 2022, Adobe configurará en este portal los nuevos administradores de sistemas de asistencia técnica y los administradores de asistencia al cliente.
+A lo largo de febrero y marzo del 2022, Adobe configurará tanto los nuevos administradores del sistema de asistencia técnica como los administradores de Atención al cliente en este portal.
 
-* Si nuestros registros indican que actualmente actúa como administrador del sistema de asistencia técnica en Adobe Admin Console o que su nombre figura en el contrato de compra como contacto del cliente de Adobe dentro de su organización, se configurará como el **Administrador del sistema de asistencia** para su organización.
-* Si nuestros registros indican que ha solicitado asistencia al cliente de Adobe en el pasado, se configura como **Administrador de asistencia al cliente**.
+* Si en nuestros registros se indica que tiene el rol de administrador del sistema de asistencia técnica en Adobe Admin Console o que su nombre figuraba en el contrato de compra como el contacto del cliente de Adobe en la organización, será el **administrador del sistema de asistencia técnica** de la organización.
+* Si en nuestros registros se indica que ha solicitado atención al cliente de Adobe anteriormente, será el **administrador de Atención al cliente**.
 
-Los administradores del sistema de asistencia técnica y los administradores de asistencia al cliente verán los correos electrónicos generados por el sistema a medida que se creen usuarios de asistencia técnica en el Admin Console. Ambos roles de usuario podrán:
+Los administradores del sistema de asistencia técnica y de Atención al cliente recibirán mensajes de correo electrónico generados por el sistema a medida que se creen usuarios de asistencia técnica en Admin Console. Ambas funciones de usuario podrán:
 
 * Aprovechar las herramientas de administración de casos que facilitan la coordinación de casos de asistencia técnica con la asistencia al cliente de Adobe
 * Iniciar conversaciones de chat de forma conveniente con el equipo de asistencia al cliente de Adobe para Adobe Analytics
-* Have greater visibility into your service history
-* Examine los temas de ayuda y los foros más populares.
+* Obtener una visibilidad más exhaustiva del historial de servicios
+* Ver temas de ayuda y foros populares
 
-Además, los administradores de sistemas de asistencia técnica podrán:
+Además, los administradores del sistema de asistencia técnica podrán:
 
 * Crear o eliminar usuarios de asistencia técnica en el portal y administrar las funciones de acceso
-* Revise y valide la precisión de los usuarios de asistencia técnica de su organización. (Para obtener instrucciones, consulte: [Administración de usuarios](https://helpx.adobe.com/es/enterprise/using/users.html) y [Administración de cuentas de equipos](https://helpx.adobe.com/es/enterprise/using/accounts.html).)
+* Revisar y validar la precisión de los usuarios de asistencia técnica de la organización (para obtener instrucciones, consulte [Administración de usuarios](https://helpx.adobe.com/es/enterprise/using/users.html) y [Administrar la cuenta de equipos](https://helpx.adobe.com/es/enterprise/using/accounts.html))
 
 ## Qué puede esperar a continuación
 
-**February/March 2022 - User Set Up**
+**Febrero/marzo del 2022: configuración de usuarios**
 
-* Setup of known support users in the portal system as Customer Support Administrators
-* Los correos electrónicos generados por el sistema se enviarán a los usuarios configurados por Adobe
+* Configuración de usuarios de asistencia técnica conocidos en el sistema del portal como administradores de Atención al cliente
+* Los mensajes de correo electrónico generados por el sistema se enviarán a los usuarios configurados por Adobe
 
 >[!NOTE]
 >
->At this stage, the portal is not yet active to submit support cases.
+>En esta fase, el portal aún no está activo para enviar casos de asistencia técnica.
 
-**April 2022 - Enablement**
+**Abril del 2022: habilitación**
 
-* Learning materials will be provided to all portal system users
-* System Admin/designated contacts to finalize support user set up and roles
+* Se facilitará material didáctico a todos los usuarios del sistema del portal
+* El administrador del sistema o los contactos designados finalizarán la configuración y las funciones de los usuarios de asistencia técnica
 
-**Abril de 2022: Inicio del portal**
+**Abril del 2022: lanzamiento del portal**
 
-* Adobe to launch access to support for these products on the Adobe Admin Console portal
-* Los clientes pueden empezar a utilizar el sistema de portales para conectarse con el servicio de asistencia al cliente de Adobe para Adobe Analytics, Target y Audience Manager
+* Adobe habilitará el acceso a la asistencia técnica para estos productos en el portal Adobe Admin Console
+* Los clientes podrán empezar a utilizar el sistema del portal para conectar con el servicio de Atención al cliente de Adobe de Adobe Analytics, Target y Audience Manager
