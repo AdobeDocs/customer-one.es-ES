@@ -1,13 +1,13 @@
 ---
-title: Anuncio de la nueva experiencia de asistencia al cliente de Adobe (anuncio previo)
+title: Anuncio de la nueva experiencia de asistencia al cliente de Adobe (anuncio anterior)
 description: Primera comunicación con el cliente sobre la nueva experiencia de asistencia
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '389'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
