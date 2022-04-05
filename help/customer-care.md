@@ -1,10 +1,10 @@
 ---
 title: Contactar con el servicio de atención al cliente de Adobe
 description: Información sobre cómo ponerse en contacto con el Servicio de atención al cliente de Adobe para equipos, empresas y clientes Experience Cloud.
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 83d10df855395476b0bdbb640096dbe7eebf227c
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 3%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -21,16 +21,22 @@ Si no está seguro sobre su plan de suscripción, vaya a la **Pestaña Asistenci
 
 ![imagen del equipo](assets/team.png)
 
-[Más información](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+-->
 
 ## Para la cuenta de empresa
 
 ![imagen del equipo](assets/enterprise.png)
 
-[Más información](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+-->
 
 ## Para Experience Cloud
 
 ![imagen del equipo](assets/ec.png)
 
-[Más información](https://www.adobe.com/go/ac_ec_not_supported_en)
+<!--
+[Learn more](https://www.adobe.com/go/ac_ec_not_supported_en)
+-->
