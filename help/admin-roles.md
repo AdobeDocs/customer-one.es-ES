@@ -3,9 +3,9 @@ title: Funciones de administrador
 description: Con Adobe Admin Console, las organizaciones pueden definir una jerarquía administrativa flexible que permita una administración precisa del acceso y el uso de los productos de Adobe.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1640'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -177,40 +177,40 @@ La siguiente tabla enumera todos los permisos para los distintos tipos de admini
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
 | Añadir dominio (solicitar/reclamar un dominio) | ✔ |  |
-| Ver dominios y listado de dominios | š |  |
-| Administrar claves de cifrado de dominio | š |  |
-| Administrar la directiva de contraseñas de organización predeterminada | š |  |
-| Ver directiva de contraseñas de organización predeterminada | š |  |
+| Ver dominios y listado de dominios | ✔ |  |
+| Administrar claves de cifrado de dominio | ✔ |  |
+| Administrar la directiva de contraseñas de organización predeterminada | ✔ |  |
+| Ver directiva de contraseñas de organización predeterminada | ✔ |  |
 
 ### Administración de usuarios
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Agregar usuario a organización | š |  |
-| Eliminar usuario de organización | š |  |
-| Ver detalles de usuario y listado | š |  |
-| Editar perfil de usuario | š |  |
-| Agregar perfil de producto al usuario o grupo | š |  |
-| Eliminar perfil de producto del usuario o grupo | š |  |
-| Agregar perfil de producto a varios usuarios | š |  |
-| Ver perfiles de producto para un usuario | š |  |
-| Ver lista de usuarios del producto | š |  |
-| Agregar grupo de usuarios a la organización | š |  |
+| Agregar usuario a organización | ✔ |  |
+| Eliminar usuario de organización | ✔ |  |
+| Ver detalles de usuario y listado | ✔ |  |
+| Editar perfil de usuario | ✔ |  |
+| Agregar perfil de producto al usuario o grupo | ✔ |  |
+| Eliminar perfil de producto del usuario o grupo | ✔ |  |
+| Agregar perfil de producto a varios usuarios | ✔ |  |
+| Ver perfiles de producto para un usuario | ✔ |  |
+| Ver lista de usuarios del producto | ✔ |  |
+| Agregar grupo de usuarios a la organización | ✔ |  |
 
 ### Gestión de administradores
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Otorgar la función de administrador de organización a un usuario | š |  |
-| Revocar el administrador de organización de un usuario | š |  |
-| Otorgar la función de administrador de licencias de producto a un usuario | š |  |
-| Revocar el administrador de licencias de producto de un usuario | š |  |
-| Otorgar la función de administrador de implementación a un usuario | š |  |
-| Revocar el administrador de implementación de un usuario | š |  |
-| Otorgar la función de administrador de grupos de usuarios a un usuario | š |  |
-| Revocar la función de administrador de grupos de usuarios de un usuario | š |  |
-| Otorgar la función de administrador de propietario de producto a un usuario | š |  |
-| Revocar el administrador del propietario del producto de un usuario | š |  |
+| Otorgar la función de administrador de organización a un usuario | ✔ |  |
+| Revocar el administrador de organización de un usuario | ✔ |  |
+| Otorgar la función de administrador de licencias de producto a un usuario | ✔ |  |
+| Revocar el administrador de licencias de producto de un usuario | ✔ |  |
+| Otorgar la función de administrador de implementación a un usuario | ✔ |  |
+| Revocar el administrador de implementación de un usuario | ✔ |  |
+| Otorgar la función de administrador de grupos de usuarios a un usuario | ✔ |  |
+| Revocar la función de administrador de grupos de usuarios de un usuario | ✔ |  |
+| Otorgar la función de administrador de propietario de producto a un usuario | ✔ |  |
+| Revocar el administrador del propietario del producto de un usuario | ✔ |  |
 
 ### Administración de la configuración de la licencia del producto
 
@@ -218,45 +218,45 @@ La siguiente tabla enumera todos los permisos para los distintos tipos de admini
 |--- |--- |--- |
 | Otorgar derechos de producto a organización |  |  |
 | Eliminar la asignación de productos de la organización |  |  |
-| Ver el número total de licencias propiedad de la organización | š |  |
-| Ver productos disponibles y familias de productos | š |  |
-| Editar descripciones/datos de licencias de productos | š |  |
-| Proporcionar licencia de producto a un usuario | š |  |
-| Cancelar la licencia de producto de un usuario | š |  |
-| Añadir nueva configuración de licencia de producto | š |  |
-| Editar la configuración del servicio de licencias de producto | š |  |
-| Eliminar la configuración del servicio de licencias de producto | š |  |
-| Eliminar el acceso al producto de un usuario (eliminación de todas las configuraciones) | š |  |
+| Ver el número total de licencias propiedad de la organización | ✔ |  |
+| Ver productos disponibles y familias de productos | ✔ |  |
+| Editar descripciones/datos de licencias de productos | ✔ |  |
+| Proporcionar licencia de producto a un usuario | ✔ |  |
+| Cancelar la licencia de producto de un usuario | ✔ |  |
+| Añadir nueva configuración de licencia de producto | ✔ |  |
+| Editar la configuración del servicio de licencias de producto | ✔ |  |
+| Eliminar la configuración del servicio de licencias de producto | ✔ |  |
+| Eliminar el acceso al producto de un usuario (eliminación de todas las configuraciones) | ✔ |  |
 
 ### Administración del almacenamiento
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Ver carpetas de usuario activas e inactivas | š |  |
-| Eliminar carpetas de usuario inactivas y transferir contenido | š |  |
+| Ver carpetas de usuario activas e inactivas | ✔ |  |
+| Eliminar carpetas de usuario inactivas y transferir contenido | ✔ |  |
 
 ### Implementación
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Pestaña Ver/usar paquetes | š |  |
+| Pestaña Ver/usar paquetes | ✔ |  |
 
 ### Asistencia técnica
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Ver pestaña de asistencia técnica | š |  |
-| Administrar casos de asistencia técnica | š | š |
+| Ver pestaña de asistencia técnica | ✔ |  |
+| Administrar casos de asistencia técnica | ✔ | ✔ |
 
 ### Administración de grupos de usuarios
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Crear grupo de usuarios | š |  |
-| Eliminar grupo de usuarios | š |  |
-| Agregar usuario al grupo de usuarios | š |  |
-| Eliminar usuario del grupo de usuarios | š |  |
-| Asignar grupo de usuarios a una licencia de producto | š |  |
-| Eliminar grupo de usuarios de la licencia del producto | š |  |
-| Ver miembro del grupo de usuarios | š | š |
-| Ver lista de grupos de usuarios | š | š |
+| Crear grupo de usuarios | ✔ |  |
+| Eliminar grupo de usuarios | ✔ |  |
+| Agregar usuario al grupo de usuarios | ✔ |  |
+| Eliminar usuario del grupo de usuarios | ✔ |  |
+| Asignar grupo de usuarios a una licencia de producto | ✔ |  |
+| Eliminar grupo de usuarios de la licencia del producto | ✔ |  |
+| Ver miembro del grupo de usuarios | ✔ | ✔ |
+| Ver lista de grupos de usuarios | ✔ | ✔ |
