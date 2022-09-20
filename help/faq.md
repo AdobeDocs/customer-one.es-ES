@@ -5,7 +5,7 @@ description: Preguntas más frecuentes sobre Adobe Workfront
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -57,7 +57,7 @@ Consulte [este documento](overview.md) resaltando algunas de las nuevas incorpor
 
 +++**¿Cuáles son los recursos de capacitación disponibles para el CAA?**
 
-&lt;https://helpx.adobe.com/es/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
