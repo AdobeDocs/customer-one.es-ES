@@ -3,11 +3,11 @@ cloud: Experience Cloud
 product: experience cloud
 sub-product: customer one
 audience: end-user
-user-guide-title: '[!DNL Customer One for Enterprise] Ayuda'
-source-git-commit: 89be38209b05b9b836d4487b31cb2e761b8aaf8d
+user-guide-title: "[!DNL Customer One for Enterprise] Ayuda"
+source-git-commit: b22777eb7d5d4a89fd02328443a10e6132f1160e
 workflow-type: tm+mt
 source-wordcount: '20'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
