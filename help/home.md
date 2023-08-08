@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
 source-wordcount: '732'
-ht-degree: 78%
+ht-degree: 91%
 
 ---
 
@@ -34,15 +34,15 @@ Para agregar o invitar a un administrador:
 1. Haga clic en **[!UICONTROL Agregar administrador]**.
 1. Introduzca un nombre o una dirección de correo electrónico.
 
-   Puede buscar usuarios existentes o agregar nuevos especificando una dirección de correo electrónico válida y rellenando la información de la pantalla.
+   Puede buscar usuarios existentes o agregar un nuevo usuario especificando una dirección de correo electrónico válida y rellenando la información en la pantalla.
 
-   ![Añadir administrador](assets/admin-console-add-admin.png)
+   ![Agregar administrador](assets/admin-console-add-admin.png)
 
 1. Haga clic en **[!UICONTROL Siguiente]**. Aparece una lista de funciones de administrador.
 
 Para asignar una función de administrador de soporte a un usuario (permitir que un usuario pueda ponerse en contacto con el servicio de asistencia):
 
-1. Seleccione el **[!UICONTROL Administrador de soporte]** opción.
+1. Seleccione la opción **[!UICONTROL Administrador de soporte]**.
 
    ![Editar derechos de administrador](assets/edit-admin-rights.png)
 
@@ -51,7 +51,7 @@ Para asignar una función de administrador de soporte a un usuario (permitir que
    * Opción 1: **[!UICONTROL Administrador de asistencia básica]**. Seleccione esta opción si desea proporcionar al usuario de asistencia acceso a todas las soluciones (excepto al Marketo Engage).
    * Opción 2: **[!UICONTROL Administrador de soporte de productos]**: seleccione esta opción para la asistencia al Marketo Engage. Seleccione las instancias de Marketo Engage que desea dar acceso a la asistencia al usuario.
 
-   ![Editar Marketo de derechos de administrador](assets/edit-admin-rights-advanced.png)
+   ![Editar derechos de administrador de Marketo ](assets/edit-admin-rights-advanced.png)
 
 1. Una vez realizadas las selecciones, haga clic en **[!UICONTROL Guardar]**.
 
@@ -59,7 +59,7 @@ El usuario recibe una invitación por correo electrónico con respecto a los nue
 
 Los usuarios deben hacer clic en **Empezar** en el correo electrónico para unirse a la organización. Si los nuevos administradores no utilizan el enlace **Empezar** de la invitación por correo electrónico, no podrían iniciar sesión en Admin Console.
 
-Como parte del proceso de inicio de sesión, es posible que se pida a los usuarios que configuren un perfil de Adobe si todavía no lo tienen. Si los usuarios tienen varios perfiles asociados a su dirección de correo electrónico, los usuarios deben elegir **Unirse al equipo** (si se le solicita) y, a continuación, seleccione el perfil asociado a la nueva organización.
+Como parte del proceso de inicio de sesión, es posible que se pida a los usuarios que configuren un perfil de Adobe si todavía no lo tienen. Si los usuarios tienen varios perfiles asociados a su dirección de correo electrónico, deben elegir **Unirse al equipo** (si se les solicita) y luego seleccionar el perfil asociado a la nueva organización.
 
 ![Confirmación de derechos de administrador](assets/admin-rights-confirmation.png)
 
