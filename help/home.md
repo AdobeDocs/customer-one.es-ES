@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '732'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -48,8 +48,8 @@ Para asignar una función de administrador de soporte a un usuario (permitir que
 
 1. Elija una de las dos opciones siguientes:
 
-   * Opción 1: **[!UICONTROL Administrador de asistencia básica]**. Seleccione esta opción si desea proporcionar al usuario de asistencia acceso a todas las soluciones (excepto al Marketo Engage).
-   * Opción 2: **[!UICONTROL Administrador de soporte de productos]**: seleccione esta opción para la asistencia al Marketo Engage. Seleccione las instancias de Marketo Engage que desea dar acceso a la asistencia al usuario.
+   * Opción 1: **[!UICONTROL Administrador de asistencia básica]**. Seleccione esta opción si desea proporcionar al usuario acceso a la asistencia para todas las soluciones (excepto Marketo Engage).
+   * Opción 2: **[!UICONTROL Administrador de asistencia de producto]**: seleccione esta opción para la asistencia de Marketo Engage. Seleccione las instancias de Marketo Engage que darán al usuario acceso a la asistencia.
 
    ![Editar derechos de administrador de Marketo ](assets/edit-admin-rights-advanced.png)
 
@@ -63,7 +63,7 @@ Como parte del proceso de inicio de sesión, es posible que se pida a los usuari
 
 ![Confirmación de derechos de administrador](assets/admin-rights-confirmation.png)
 
-Para obtener más información, consulte [editar rol de administrador de empresa](admin-roles.md#add-enterprise-role) instrucciones en la documentación de funciones administrativas. Tenga en cuenta que solo un administrador del sistema de su organización puede asignar esta función. Para obtener más información sobre la jerarquía administrativa, visite la documentación sobre [funciones administrativas](admin-roles.md).
+Para obtener más información, consulte las instrucciones de [editar rol de administrador de empresa](admin-roles.md#add-enterprise-role) en la documentación de funciones administrativas. Tenga en cuenta que solo un administrador del sistema de su organización puede asignar esta función. Para obtener más información sobre la jerarquía administrativa, visite la documentación sobre [funciones administrativas](admin-roles.md).
 
 ### Creación de un ticket de asistencia con Admin Console
 
