@@ -1,12 +1,11 @@
 ---
 title: 'AEM: nueva experiencia de asistencia al cliente'
-seo-title: 'Adobe Experience Manager: una nueva experiencia de asistencia al cliente está a punto de llegar'
+seo-title: Adobe Experience Manager - New Support Experience Coming
 description: 'Adobe Experience Manager: una nueva experiencia de asistencia al cliente está a punto de llegar'
-seo-description: 'Adobe Experience Manager: una nueva experiencia de asistencia al cliente está a punto de llegar'
-translation-type: ht
+seo-description: Adobe Experience Manager - New Support Experience Coming
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '283'
+source-wordcount: '250'
 ht-degree: 100%
 
 ---
@@ -34,7 +33,7 @@ Como administrador del sistema, tiene acceso al [!DNL Adobe Admin Console Suppor
 
 >[!NOTE]
 >
->Confirme que acepta esta función (de lo contrario, proporcione un punto de contacto alternativo) como administrador del sistema de su organización para productos de Adobe Experience Manager **completando y enviando el [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) antes del 4 de noviembre de 2019**.
+>Confirme que acepta esta función (o proporcione un contacto alternativo) como administrador del sistema de su organización para los productos Adobe Experience Manager **completando y enviando el mensaje [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) antes del 4 de noviembre de 2019**.
 >
 >Al completar este formulario, se asegurará de que se asignen las credenciales adecuadas al administrador del sistema designado por su organización.
 

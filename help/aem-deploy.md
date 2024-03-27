@@ -1,12 +1,11 @@
 ---
 title: 'Su nueva experiencia de asistencia al cliente de Adobe está a punto de llegar: designación de contacto de AEM'
 description: 'Su nueva experiencia de asistencia al cliente de Adobe está a punto de llegar: designación de contacto de AEM'
-seo-title: 'Su nueva experiencia de asistencia al cliente de Adobe está a punto de llegar: designación de contacto de AEM'
-seo-description: 'Su nueva experiencia de asistencia al cliente de Adobe está a punto de llegar: designación de contacto de AEM'
-translation-type: ht
+seo-title: Your New Adobe Customer Support Experience is Coming - AEM deploy contact
+seo-description: Your New Adobe Customer Support Experience is Coming - AEM deploy contact
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '342'
+source-wordcount: '297'
 ht-degree: 100%
 
 ---
@@ -32,7 +31,7 @@ Como administrador del sistema, tiene acceso al [!DNL Adobe Admin Console Suppor
 
 >[!NOTE]
 >
->Confirme que acepta esta función (de lo contrario, proporcione un punto de contacto alternativo) como administrador del sistema de su organización para productos de Adobe Experience Manager **completando y enviando el [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) antes del 4 de noviembre de 2019**.
+>Confirme que acepta esta función (o proporcione un contacto alternativo) como administrador del sistema de su organización para los productos Adobe Experience Manager **completando y enviando el mensaje [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) antes del 4 de noviembre de 2019**.
 >
 >Al completar este formulario, se asegurará de que se asignen las credenciales adecuadas al administrador del sistema designado para su organización y nos permitirá proporcionar más detalles para ayudar a su organización a prepararse para los próximos cambios.
 

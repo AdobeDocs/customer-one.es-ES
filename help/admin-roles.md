@@ -4,7 +4,7 @@ description: Con Adobe Admin Console, las organizaciones pueden definir una jera
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: ht
-source-wordcount: '1640'
+source-wordcount: '1689'
 ht-degree: 100%
 
 ---
@@ -45,7 +45,7 @@ _Jerarquía de funciones de administrador_
 
 Para obtener una lista detallada de permisos y privilegios para cada función de administrador, consulte [Permisos](#enterprise-admins-permissions-matrix).
 
-## Agregar un administrador de empresa función {#add-enterprise-role}
+## Agregar una función de administrador de empresa {#add-enterprise-role}
 
 Se aplica a: clientes empresariales de Adobe.
 
@@ -65,7 +65,6 @@ Para agregar o invitar a un administrador:
 >
 >* Las opciones de esta pantalla dependen de la cuenta y de la función de administrador. Puede otorgar los mismos privilegios que tiene, o privilegios para una función por debajo de la suya en la jerarquía.
 >* Como administrador del sistema de un equipo, solo puede asignar una función de administrador: Administrador del sistema.
-
 
 1. Seleccione una o varias funciones de administrador.
 1. Para los tipos de administrador como Administrador de productos, Administrador de perfiles de producto y Administrador de grupos de usuarios, seleccione los productos, perfiles y grupos específicos, respectivamente.
@@ -176,87 +175,87 @@ La siguiente tabla enumera todos los permisos para los distintos tipos de admini
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Añadir dominio (solicitar/reclamar un dominio) | ✔ |  |
-| Ver dominios y listado de dominios | ✔ |  |
-| Administrar claves de cifrado de dominio | ✔ |  |
-| Administrar la directiva de contraseñas de organización predeterminada | ✔ |  |
-| Ver directiva de contraseñas de organización predeterminada | ✔ |  |
+| Añadir dominio (solicitar/reclamar un dominio) | ✔ | |
+| Ver dominios y listado de dominios | ✔ | |
+| Administrar claves de cifrado de dominio | ✔ | |
+| Administrar la directiva de contraseñas de organización predeterminada | ✔ | |
+| Ver directiva de contraseñas de organización predeterminada | ✔ | |
 
 ### Administración de usuarios
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Agregar usuario a organización | ✔ |  |
-| Eliminar usuario de organización | ✔ |  |
-| Ver detalles de usuario y listado | ✔ |  |
-| Editar perfil de usuario | ✔ |  |
-| Agregar perfil de producto al usuario o grupo | ✔ |  |
-| Eliminar perfil de producto del usuario o grupo | ✔ |  |
-| Agregar perfil de producto a varios usuarios | ✔ |  |
-| Ver perfiles de producto para un usuario | ✔ |  |
-| Ver lista de usuarios del producto | ✔ |  |
-| Agregar grupo de usuarios a la organización | ✔ |  |
+| Agregar usuario a organización | ✔ | |
+| Eliminar usuario de organización | ✔ | |
+| Ver detalles de usuario y listado | ✔ | |
+| Editar perfil de usuario | ✔ | |
+| Agregar perfil de producto al usuario o grupo | ✔ | |
+| Eliminar perfil de producto del usuario o grupo | ✔ | |
+| Agregar perfil de producto a varios usuarios | ✔ | |
+| Ver perfiles de producto para un usuario | ✔ | |
+| Ver lista de usuarios del producto | ✔ | |
+| Agregar grupo de usuarios a la organización | ✔ | |
 
 ### Gestión de administradores
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Otorgar la función de administrador de organización a un usuario | ✔ |  |
-| Revocar el administrador de organización de un usuario | ✔ |  |
-| Otorgar la función de administrador de licencias de producto a un usuario | ✔ |  |
-| Revocar el administrador de licencias de producto de un usuario | ✔ |  |
-| Otorgar la función de administrador de implementación a un usuario | ✔ |  |
-| Revocar el administrador de implementación de un usuario | ✔ |  |
-| Otorgar la función de administrador de grupos de usuarios a un usuario | ✔ |  |
-| Revocar la función de administrador de grupos de usuarios de un usuario | ✔ |  |
-| Otorgar la función de administrador de propietario de producto a un usuario | ✔ |  |
-| Revocar el administrador del propietario del producto de un usuario | ✔ |  |
+| Otorgar la función de administrador de organización a un usuario | ✔ | |
+| Revocar el administrador de organización de un usuario | ✔ | |
+| Otorgar la función de administrador de licencias de producto a un usuario | ✔ | |
+| Revocar el administrador de licencias de producto de un usuario | ✔ | |
+| Otorgar la función de administrador de implementación a un usuario | ✔ | |
+| Revocar el administrador de implementación de un usuario | ✔ | |
+| Otorgar la función de administrador de grupos de usuarios a un usuario | ✔ | |
+| Revocar la función de administrador de grupos de usuarios de un usuario | ✔ | |
+| Otorgar la función de administrador de propietario de producto a un usuario | ✔ | |
+| Revocar el administrador del propietario del producto de un usuario | ✔ | |
 
 ### Administración de la configuración de la licencia del producto
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Otorgar derechos de producto a organización |  |  |
-| Eliminar la asignación de productos de la organización |  |  |
-| Ver el número total de licencias propiedad de la organización | ✔ |  |
-| Ver productos disponibles y familias de productos | ✔ |  |
-| Editar descripciones/datos de licencias de productos | ✔ |  |
-| Proporcionar licencia de producto a un usuario | ✔ |  |
-| Cancelar la licencia de producto de un usuario | ✔ |  |
-| Añadir nueva configuración de licencia de producto | ✔ |  |
-| Editar la configuración del servicio de licencias de producto | ✔ |  |
-| Eliminar la configuración del servicio de licencias de producto | ✔ |  |
-| Eliminar el acceso al producto de un usuario (eliminación de todas las configuraciones) | ✔ |  |
+| Otorgar derechos de producto a organización | | |
+| Eliminar la asignación de productos de la organización | | |
+| Ver el número total de licencias propiedad de la organización | ✔ | |
+| Ver productos disponibles y familias de productos | ✔ | |
+| Editar descripciones/datos de licencias de productos | ✔ | |
+| Proporcionar licencia de producto a un usuario | ✔ | |
+| Cancelar la licencia de producto de un usuario | ✔ | |
+| Añadir nueva configuración de licencia de producto | ✔ | |
+| Editar la configuración del servicio de licencias de producto | ✔ | |
+| Eliminar la configuración del servicio de licencias de producto | ✔ | |
+| Eliminar el acceso al producto de un usuario (eliminación de todas las configuraciones) | ✔ | |
 
 ### Administración del almacenamiento
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Ver carpetas de usuario activas e inactivas | ✔ |  |
-| Eliminar carpetas de usuario inactivas y transferir contenido | ✔ |  |
+| Ver carpetas de usuario activas e inactivas | ✔ | |
+| Eliminar carpetas de usuario inactivas y transferir contenido | ✔ | |
 
 ### Implementación
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Pestaña Ver/usar paquetes | ✔ |  |
+| Pestaña Ver/usar paquetes | ✔ | |
 
 ### Asistencia técnica
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Ver pestaña de asistencia técnica | ✔ |  |
+| Ver pestaña de asistencia técnica | ✔ | |
 | Administrar casos de asistencia técnica | ✔ | ✔ |
 
 ### Administración de grupos de usuarios
 
 | Permiso | Administrador del sistema | Administrador de asistencia |
 |--- |--- |--- |
-| Crear grupo de usuarios | ✔ |  |
-| Eliminar grupo de usuarios | ✔ |  |
-| Agregar usuario al grupo de usuarios | ✔ |  |
-| Eliminar usuario del grupo de usuarios | ✔ |  |
-| Asignar grupo de usuarios a una licencia de producto | ✔ |  |
-| Eliminar grupo de usuarios de la licencia del producto | ✔ |  |
+| Crear grupo de usuarios | ✔ | |
+| Eliminar grupo de usuarios | ✔ | |
+| Agregar usuario al grupo de usuarios | ✔ | |
+| Eliminar usuario del grupo de usuarios | ✔ | |
+| Asignar grupo de usuarios a una licencia de producto | ✔ | |
+| Eliminar grupo de usuarios de la licencia del producto | ✔ | |
 | Ver miembro del grupo de usuarios | ✔ | ✔ |
 | Ver lista de grupos de usuarios | ✔ | ✔ |
