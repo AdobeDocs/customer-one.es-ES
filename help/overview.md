@@ -3,7 +3,7 @@ keywords: Soporte técnico de Workfront;enviar incidencia de soporte técnico;as
 title: Información general sobre el soporte técnico de Adobe Workfront
 description: Adobe Workfront se une a Adobe Admin Console Platform.
 exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
-source-git-commit: ac7d548a774a1eecbdcd0c87ba3f9b33c3bbda0e
+source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 100%
