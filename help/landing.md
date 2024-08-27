@@ -3,7 +3,7 @@ title: Página de aterrizaje de Admin Console de Workfront
 description: Página de aterrizaje de Admin Console de Workfront
 exl-id: 46687939-d237-47ba-88bf-58550046f5e0
 source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
 ht-degree: 100%
 

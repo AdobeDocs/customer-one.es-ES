@@ -6,29 +6,29 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '860'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
 # Experiencia de asistencia al cliente de Adobe
 
-## Entradas de soporte al Experience League
+## Solicitudes de soporte técnico de Experience League
 
-Los tickets de soporte ahora se envían a través de [Experience League](https://experienceleague.adobe.com/home#support). Para ver las instrucciones acerca de cómo enviar un ticket de asistencia, revise la sección para el [envío de tickets de asistencia](#submit-ticket).
+Las solicitudes de soporte técnico ahora se envían a través de [Experience League](https://experienceleague.adobe.com/home?support-tab=home&amp;lang=es#support). Para ver las instrucciones acerca de cómo enviar una solicitud de soporte técnico, revise la sección para el [envío de una solicitud de soporte técnico](#submit-ticket).
 
-Estamos trabajando para mejorar su forma de interactuar con el servicio de Atención al cliente de Adobe. Nuestro objetivo es optimizar la experiencia de asistencia trasladándose a un único punto de entrada mediante Experience League. Una vez en funcionamiento, su organización podrá acceder fácilmente al servicio de asistencia al cliente de Adobe, tener una mayor visibilidad del historial de servicios a través de un sistema común para todos los productos, y solicitar ayuda por teléfono, sitio web y chat a través de este portal único.
+Estamos trabajando para mejorar su forma de interactuar con el servicio de atención al cliente de Adobe. Nuestra visión es optimizar la experiencia de asistencia con un punto de acceso único a través de Experience League. Una vez en funcionamiento, su organización podrá acceder fácilmente al servicio de atención al cliente de Adobe, tener una mayor visibilidad del historial de servicios a través de un sistema común para todos los productos y solicitar ayuda por teléfono, sitio web y chat a través de este portal único.
 
-Si es un usuario de Adobe Commerce, consulte [Enviar un caso de asistencia](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) en la Guía del usuario de asistencia para Experience League de Adobe Commerce.
+Si es usuario de Adobe Commerce, consulte [Enviar un caso de soporte técnico](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) en la Guía del usuario del Centro de ayuda de Adobe Commerce.
 
-## Compatibilidad con las funciones necesarias para el envío de casos {#submit-ticket}
+## Funciones con derecho de soporte necesarias para el envío de casos {#submit-ticket}
 
-Para enviar un ticket de asistencia en [Experience League](https://experienceleague.adobe.com/home#support), necesita que un administrador del sistema le asigne la función de administrador de asistencia. Solo un administrador del sistema de su organización puede asignar esta función. Producto, Perfil de producto y otras funciones administrativas no pueden asignar la función de administrador de asistencia, y tampoco pueden ver la opción **[!UICONTROL Crear caso]** para enviar un ticket de asistencia. Para obtener más información sobre los distintos tipos de funciones de administrador y sus derechos, consulte [Funciones de administrador](admin-roles.md).
+Para enviar una solicitud de soporte técnico en [Experience League](https://experienceleague.adobe.com/home?support-tab=home&amp;lang=es#support), debe tener la función de administrador de soporte asignada por un administrador del sistema. Solo un administrador del sistema de su organización puede asignar esta función. Producto, Perfil de producto y otras funciones administrativas no pueden asignar la función de administrador de asistencia, y tampoco pueden ver la opción **[!UICONTROL Crear caso]** para enviar una solicitud de soporte técnico. Para obtener más información sobre los distintos tipos de funciones de administrador y sus derechos, consulte [Funciones de administrador](admin-roles.md).
 
-Si está en Commerce, el proceso para compartir el acceso para trabajar con casos de asistencia es diferente. Para obtener más información, consulte [Acceso compartido: otorga privilegios para que otros usuarios accedan a tu cuenta](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) en la Guía del usuario de soporte técnico para Experience League de Adobe Commerce.
+Si está en Commerce, el proceso para compartir el acceso para trabajar con casos de soporte técnico es diferente. Para obtener más información, consulte [Acceso compartido: conceda privilegios para que otros usuarios accedan a su cuenta](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) en la Guía del usuario del Centro de ayuda de Adobe Commerce.
 
-### Añadir asistencia da derecho a los roles a una organización
+### Agregar asistencia da derecho a funciones a una organización
 
 La función de administrador de asistencia es una función no administrativa que ofrece acceso a información relacionada con el servicio de asistencia. Los administradores de asistencia pueden ver, crear y administrar informes de problemas.
 
@@ -55,7 +55,7 @@ Para asignar una función de administrador de soporte a un usuario (permitir que
    * Opción 1: **[!UICONTROL Administrador de asistencia básica]**. Seleccione esta opción si desea proporcionar al usuario acceso a la asistencia para todas las soluciones (excepto Marketo Engage).
    * Opción 2: **[!UICONTROL Administrador de asistencia de producto]**: seleccione esta opción para la asistencia de Marketo Engage. Seleccione las instancias de Marketo Engage que darán al usuario acceso a la asistencia.
 
-   ![Editar derechos de administrador de Marketo ](assets/edit-admin-rights-advanced.png)
+   ![Editar derechos de administrador de Marketo](assets/edit-admin-rights-advanced.png)
 
 1. Una vez realizadas las selecciones, haga clic en **[!UICONTROL Guardar]**.
 
@@ -69,27 +69,27 @@ Como parte del proceso de inicio de sesión, es posible que se pida a los usuari
 
 Para obtener más información, consulte las instrucciones de [editar rol de administrador de empresa](admin-roles.md#add-enterprise-role) en la documentación de funciones administrativas. Tenga en cuenta que solo un administrador del sistema de su organización puede asignar esta función. Para obtener más información sobre la jerarquía administrativa, visite la documentación sobre [funciones administrativas](admin-roles.md).
 
-### Creación de un vale de asistencia con el Experience League
+### Creación de una solicitud de soporte técnico con Experience League
 
-El proceso de envío de casos de asistencia ahora está directamente integrado con la plataforma de asistencia del Experience League. Se trata de un portal de autoservicio rediseñado recientemente para ofrecer una mayor personalización y facilidad de uso a los clientes habituales.
+El proceso de envío de casos de soporte técnico ahora está directamente integrado en la plataforma de soporte técnico de Experience League. Se trata de un portal de autoservicio rediseñado recientemente para ofrecer una mayor personalización y facilidad de uso a los clientes.
 
-1. Para crear un ticket con [Experience League](https://experienceleague.adobe.com/home#support), seleccione la ficha **[!UICONTROL Asistencia]** que se encuentra en la barra de navegación superior.
-   ![Ficha de asistencia de Experience League](./assets/experience-league-support-tab.png)
-1. Desde la página de inicio de la asistencia, puede navegar fácilmente a sus casos de asistencia abiertos, registrar un caso nuevo, ver los artículos de asistencia principales o acceder a fuentes de aprendizaje adicionales.
-   ![Recursos de asistencia de Experience League](./assets/experience-league-support-resources.png)
-1. Para enviar un caso, selecciona **[!UICONTROL Abrir un ticket de asistencia]**. Seleccione también la opción **[!UICONTROL Abrir incidencia]** en el menú de la barra lateral. Se le dirigirá a la página de creación de casos, donde puede introducir el nombre del producto (Audience Manager, Campaña, Destinatario, etc.), el título del caso y la descripción del caso. Para acelerar el proceso de resolución de problemas, sea lo más descriptivo posible al describir el problema que enfrenta.
-   ![ticket abierto de Experience League](./assets/experience-league-open-ticket.png)
-1. Hacia el final del formulario, rellene los campos siguientes. Al seleccionar cualquier solución, se le solicita lo siguiente, y algunas soluciones tienen campos adicionales:
+1. Para crear una solicitud con [Experience League](https://experienceleague.adobe.com/home?support-tab=home&amp;lang=es#support), seleccione la pestaña **[!UICONTROL Soporte técnico]** que se encuentra en la barra de navegación superior.
+   ![Pestaña de soporte técnico de Experience League](./assets/experience-league-support-tab.png)
+1. Desde la página de inicio de soporte técnico, puede navegar fácilmente a los casos de soporte técnico abiertos, registrar un caso nuevo, ver los principales artículos de soporte técnico o acceder a recursos de aprendizaje adicionales.
+   ![Recursos de soporte de Experience League](./assets/experience-league-support-resources.png)
+1. Para enviar un caso, seleccione **[!UICONTROL Abra una solicitud de soporte técnico]**. Seleccione también la opción **[!UICONTROL Abrir solicitud]** en el menú de la barra lateral. Se le dirigirá a la página de creación de casos, donde podrá introducir el nombre del producto (Audience Manager, Campaign, Target, etc.), el título del caso y su descripción. Para acelerar el proceso de solución de problemas, sea lo más preciso que pueda al describir el problema que se ha encontrado.
+   ![Abrir solicitud de Experience League](./assets/experience-league-open-ticket.png)
+1. Hacia el final del formulario, rellene los siguientes campos. Al seleccionar cualquier solución, se le solicita lo siguiente, y algunas soluciones tienen campos adicionales:
 
-   * Prioridad de casos (bajo, Medium, alto, crítico)
+   * Prioridad del caso (baja, media, alta, crítica)
    * Impacto empresarial
    * Zona horaria del cliente (América, EMEA, APAC)
 
-![Prioridad de tickets de Experience League](./assets/experience-league-ticket-priority.png)
+![Prioridad de solicitudes de Experience League](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
-> Si no puede ver la opción **[!UICONTROL Crear caso]** o la pestaña **[!UICONTROL Asistencia técnica]**, debe ponerse en contacto con un administrador del sistema para asignar la función de administrador de asistencia.
+> Si no puede ver la opción **[!UICONTROL Crear caso]** o la pestaña **[!UICONTROL Soporte técnico]**, debe ponerse en contacto con un administrador del sistema para asignar la función de administrador de soporte técnico.
 
 
 
@@ -100,7 +100,7 @@ El proceso de envío de casos de asistencia ahora está directamente integrado c
 
 >[!NOTE]
 >
-> Si el problema causa interrupciones o interrupciones graves en un sistema de producción, se proporciona un número de teléfono para obtener asistencia inmediata.
+> Si el problema implica interrupciones o cortes graves en un sistema de producción, se proporciona un número de teléfono para obtener asistencia inmediata.
 
 
 
