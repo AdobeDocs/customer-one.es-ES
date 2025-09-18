@@ -5,7 +5,7 @@ description: Nueva experiencia de asistencia al cliente de Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
+source-git-commit: fda1336b2f33056351984c2ae3dc2059c80ec61d
 workflow-type: ht
 source-wordcount: '860'
 ht-degree: 100%
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## Solicitudes de soporte técnico de Experience League
 
-Las solicitudes de soporte técnico ahora se envían a través de [Experience League](https://experienceleague.adobe.com/home?lang=es&support-tab=home&amp;lang=es#support). Para ver las instrucciones acerca de cómo enviar una solicitud de soporte técnico, revise la sección para el [envío de una solicitud de soporte técnico](#submit-ticket).
+Las solicitudes de soporte técnico ahora se envían a través de [Experience League](https://experienceleague.adobe.com/home?support-tab=home&lang=es#support). Para ver las instrucciones acerca de cómo enviar una solicitud de soporte técnico, revise la sección para el [envío de una solicitud de soporte técnico](#create-a-support-ticket-with-experience-league).
 
 Estamos trabajando para mejorar su forma de interactuar con el servicio de atención al cliente de Adobe. Nuestra visión es optimizar la experiencia de asistencia con un punto de acceso único a través de Experience League. Una vez en funcionamiento, su organización podrá acceder fácilmente al servicio de atención al cliente de Adobe, tener una mayor visibilidad del historial de servicios a través de un sistema común para todos los productos y solicitar ayuda por teléfono, sitio web y chat a través de este portal único.
 
@@ -24,7 +24,7 @@ Si es usuario de Adobe Commerce, consulte [Enviar un caso de soporte técnico](h
 
 ## Funciones con derecho de soporte necesarias para el envío de casos {#submit-ticket}
 
-Para enviar una solicitud de soporte técnico en [Experience League](https://experienceleague.adobe.com/home?lang=es&support-tab=home&amp;lang=es#support), debe tener la función de administrador de soporte asignada por un administrador del sistema. Solo un administrador del sistema de su organización puede asignar esta función. Producto, Perfil de producto y otras funciones administrativas no pueden asignar la función de administrador de asistencia, y tampoco pueden ver la opción **[!UICONTROL Crear caso]** para enviar una solicitud de soporte técnico. Para obtener más información sobre los distintos tipos de funciones de administrador y sus derechos, consulte [Funciones de administrador](admin-roles.md).
+Para enviar una solicitud de soporte técnico en [Experience League](https://experienceleague.adobe.com/home?support-tab=home&lang=es#support), debe tener la función de administrador de soporte asignada por un administrador del sistema. Solo un administrador del sistema de su organización puede asignar esta función. Producto, Perfil de producto y otras funciones administrativas no pueden asignar la función de administrador de asistencia, y tampoco pueden ver la opción **[!UICONTROL Crear caso]** para enviar una solicitud de soporte técnico. Para obtener más información sobre los distintos tipos de funciones de administrador y sus derechos, consulte [Funciones de administrador](admin-roles.md).
 
 Si está en Commerce, el proceso para compartir el acceso para trabajar con casos de soporte técnico es diferente. Para obtener más información, consulte [Acceso compartido: conceda privilegios para que otros usuarios accedan a su cuenta](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) en la Guía del usuario del Centro de ayuda de Adobe Commerce.
 
@@ -73,7 +73,7 @@ Para obtener más información, consulte las instrucciones de [editar rol de adm
 
 El proceso de envío de casos de soporte técnico ahora está directamente integrado en la plataforma de soporte técnico de Experience League. Se trata de un portal de autoservicio rediseñado recientemente para ofrecer una mayor personalización y facilidad de uso a los clientes.
 
-1. Para crear una solicitud con [Experience League](https://experienceleague.adobe.com/home?lang=es&support-tab=home&amp;lang=es#support), seleccione la pestaña **[!UICONTROL Soporte técnico]** que se encuentra en la barra de navegación superior.
+1. Para crear una solicitud con [Experience League](https://experienceleague.adobe.com/home?support-tab=home&lang=es#support), seleccione la pestaña **[!UICONTROL Soporte técnico]** que se encuentra en la barra de navegación superior.
    ![Pestaña de soporte técnico de Experience League](./assets/experience-league-support-tab.png)
 1. Desde la página de inicio de soporte técnico, puede navegar fácilmente a los casos de soporte técnico abiertos, registrar un caso nuevo, ver los principales artículos de soporte técnico o acceder a recursos de aprendizaje adicionales.
    ![Recursos de soporte de Experience League](./assets/experience-league-support-resources.png)
