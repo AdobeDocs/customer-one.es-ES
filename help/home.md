@@ -85,7 +85,7 @@ El proceso de envío de casos de soporte técnico ahora está directamente integ
    * Impacto empresarial
    * Zona horaria del cliente (América, EMEA, APAC)
 
-   Para obtener más información sobre cómo la prioridad de casos y el impacto en la empresa afectan los tiempos de respuesta de soporte, consulte [Tiempos de respuesta iniciales objetivo para soporte](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) en la Documentación de recursos de planes de éxito.
+   Para obtener más información sobre cómo la prioridad de casos y el impacto en la empresa afectan los tiempos de respuesta de soporte, consulte [Tiempos de respuesta iniciales objetivo para soporte](https://experienceleague.adobe.com/es/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) en la Documentación de recursos de planes de éxito.
 
 ![Prioridad de solicitudes de Experience League](./assets/experience-league-ticket-priority.png)
 
