@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '942'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ Para obtener más información, consulte las instrucciones de [editar rol de adm
 
 >[!NOTE]
 >
-> Antes de enviar un ticket de asistencia, considere la posibilidad de comprobar el rendimiento del sistema Adobe, la disponibilidad y los problemas de la solución en el sitio [estado de Adobe](https://status.adobe.com).
+> Antes de enviar una solicitud de soporte, considere la posibilidad de comprobar el rendimiento del sistema Adobe, la disponibilidad y los problemas de las soluciones en el sitio [estado de Adobe](https://status.adobe.com/es).
 
 El proceso de envío de casos de soporte técnico ahora está directamente integrado en la plataforma de soporte técnico de Experience League. Se trata de un portal de autoservicio rediseñado recientemente para ofrecer una mayor personalización y facilidad de uso a los clientes.
 
@@ -81,18 +81,18 @@ El proceso de envío de casos de soporte técnico ahora está directamente integ
    ![Pestaña de soporte técnico de Experience League](./assets/experience-league-support-tab.png)
 1. Desde la página de inicio de soporte técnico, puede navegar fácilmente a los casos de soporte técnico abiertos, registrar un caso nuevo, ver los principales artículos de soporte técnico o acceder a recursos de aprendizaje adicionales.
    ![Recursos de soporte de Experience League](./assets/experience-league-support-resources.png)
-1. Para enviar un caso, seleccione **[!UICONTROL Abra una solicitud de soporte técnico]**. Seleccione también la opción **[!UICONTROL Abrir incidencia]** en el menú de la barra lateral.
+1. Para enviar un caso, seleccione **[!UICONTROL Abra una solicitud de soporte técnico]**. Seleccione también la opción **[!UICONTROL Abrir solicitud]** en el menú de la barra lateral.
 
 
-### Rellene el ticket de asistencia
+### Rellene la solicitud de soporte
 
-1. Después de seleccionar **[!UICONTROL Abrir un ticket de soporte técnico]**, se le dirigirá a la página de creación de casos, donde podrá introducir el nombre de su producto (Audience Manager, Campaign, Target, etc.), **[!UICONTROL Título del caso]** y **[!UICONTROL Descripción del caso]**.
+1. Después de seleccionar **[!UICONTROL Abrir una solicitud de soporte]** se le dirigirá a la página de creación de casos, donde podrá introducir el nombre del producto (Audience Manager, Campaign, Target, etc.), **[!UICONTROL el título del caso]** y **[!UICONTROL su descripción]**.
 
    ![Abrir solicitud de Experience League](./assets/experience-league-open-ticket.png)
 
-   Para acelerar el proceso de solución de problemas, agregue la siguiente información en el campo **[!UICONTROL Descripción del caso]**:
+   Para acelerar el proceso de solución de problemas, añada la siguiente información en el campo **[!UICONTROL Descripción del caso]**:
 
-   * Borrar declaración de problema
+   * Borrar declaración del problema
    * Pasos a seguir
    * Declaración de impacto comercial
    * ¿Se trata de una nueva implementación, función o desarrollo?
@@ -100,7 +100,7 @@ El proceso de envío de casos de soporte técnico ahora está directamente integ
    * Pasos para solucionar problemas
    * Datos de registro relevantes
    * Número de versión
-   * Información de compilación (si corresponde)
+   * Información de la versión (si corresponde)
    * Identificadores críticos
 
 
