@@ -4,9 +4,9 @@ description: Comunicación con el cliente sobre la nueva experiencia de atenció
 hide: true
 hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
-source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
+source-git-commit: c706e31eb9907a2fe653045a6d093969d0f2f010
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '459'
 ht-degree: 100%
 
 ---

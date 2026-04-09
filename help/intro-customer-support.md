@@ -4,10 +4,10 @@ description: Primera comunicación con el cliente sobre la nueva experiencia de 
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
-source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
+source-git-commit: c706e31eb9907a2fe653045a6d093969d0f2f010
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 100%
+source-wordcount: '391'
+ht-degree: 85%
 
 ---
 
@@ -17,7 +17,7 @@ Nos preocupamos por nuestros clientes y por eso trabajamos para que obtengan la 
 
 ## Más información
 
-En febrero y marzo, Adobe configurará los nuevos administradores de sistemas de asistencia técnica y los usuarios de asistencia técnica en este portal. Si nuestros registros indican que usted tiene el rol de administrador del sistema de asistencia en Admin Console de Adobe o que su nombre figura en el contrato de compra como contacto del cliente de Adobe para implementar Adobe Campaign o Adobe Experience Manager en su organización, será el administrador del sistema de asistencia técnica de su organización.
+En febrero y marzo, Adobe configurará los nuevos administradores de sistemas de asistencia técnica y los usuarios de asistencia técnica en este portal. Si nuestros registros indican que actualmente actúa como administrador del sistema de asistencia en Admin Console de Adobe, o si su nombre figuraba en el contrato de compra como contacto de cliente de Adobe para implementar Adobe Campaign o Adobe Experience Manager en su organización, se le configurará como administrador del sistema de asistencia para su organización.
 Los administradores del sistema de asistencia técnica actuarán como superusuarios en Admin Console y verán los correos electrónicos generados por el sistema cada vez que se cree un usuario nuevo de asistencia técnica. Además, podrán hacer lo siguiente:
 
 * Crear o eliminar usuarios de asistencia técnica en el portal y administrar las funciones de acceso
