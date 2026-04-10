@@ -2,9 +2,8 @@
 title: Nueva experiencia de asistencia al cliente de Adobe
 description: Comunicación con el cliente sobre la nueva experiencia de atención
 hide: true
-hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
-source-git-commit: c706e31eb9907a2fe653045a6d093969d0f2f010
+source-git-commit: 533f79ec31fd301fcaa465cd0cfe08904ebff920
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 100%
