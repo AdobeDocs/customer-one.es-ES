@@ -1,20 +1,22 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 type: Documentation
 git-repo: https://github.com/AdobeDocs/customer-one.es-ES
 hide: true
-source-git-commit: c706e31eb9907a2fe653045a6d093969d0f2f010
+source-git-commit: b43773cf282854831f1ac616260fb529a3758d7e
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: 125
+ht-degree: 31%
 
 ---
 
 
 # Metadatos para uso interno
 
-El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a los archivos TOC.md de la guía del usuario en el repositorio. Si desea cambiar el contenido de metadata.md para cualquier guía del usuario, hágalo en cualquier archivo TOC.md.
+El archivo metadata.md incluye metadatos a nivel del repositorio que transfieren a los archivos TOC.md de la guía del usuario en el repositorio. Si desea cambiar el contenido de metadata.md para cualquier guía del usuario, hágalo en cualquier archivo TOC.md.
 
 | metadatos | lo que hace |
 |--- |--- |
