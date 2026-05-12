@@ -2,10 +2,15 @@
 title: Funciones de administrador
 description: Con Adobe Admin Console, las organizaciones pueden definir una jerarquía administrativa flexible que permita una administración precisa del acceso y el uso de los productos de Adobe.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
-source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
+TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: d901b097-46a8-4d66-aaed-6f7b45e5d1deid: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
 workflow-type: tm+mt
-source-wordcount: '1689'
-ht-degree: 100%
+source-wordcount: 1647
+ht-degree: 97%
 
 ---
 
@@ -35,7 +40,7 @@ _Jerarquía de funciones de administrador_
 
 | Función | Descripción |
 |--- |--- |
-| **Administrador del sistema** | Superusuario de la organización; puede realizar todas las tareas administrativas en Admin Console.<br>Además, tiene permisos para delegar la siguiente funcionalidad administrativa en otros usuarios: administrador de productos, administrador de perfiles de producto, administrador de grupos de usuarios, administrador de implementación y administrador de asistencia. |
+| **Administrador del sistema** | Superusuario de la organización; con permiso para realizar todas las tareas administrativas en Admin Console.<br>Además, tiene permisos para delegar la siguiente funcionalidad administrativa a otros usuarios: administrador de productos, administrador de perfiles de productos, administrador de grupos de usuarios, administrador de implementación y administrador de soporte. |
 | **Administrador de productos** | Administra los productos asignados a ese administrador y todas las funciones administrativas asociadas, que incluyen:<ul><li>Crear perfiles de producto</li><li>Agregar usuarios y grupos de usuarios a la organización, pero no eliminarlos</li><li>Agregar o quitar usuarios y grupos de usuarios de perfiles de producto</li><li>Agregar o quitar administradores de perfiles de producto</li><li>Agregar o quitar otros administradores de productos</li><li>Agregar o quitar administradores de grupos</li></ul> |
 | **Administrador del perfil de producto** | Administra las descripciones de perfil de producto asignadas a ese administrador y todas las funciones administrativas asociadas, que incluyen:<ul><li>Agregar usuarios y grupos de usuarios a la organización, pero no eliminarlos</li><li>Agregar o quitar usuarios y grupos de usuarios de perfiles de producto</li><li>Asignar o revocar permisos de producto para usuarios y grupos de usuarios desde perfiles de producto</li><li>Administrar funciones de producto de usuarios y grupos de usuarios para perfiles de producto |
 | **Administrador del grupo de usuarios** | Administra las descripciones de grupo de usuarios asignadas a ese administrador y todas las funciones de administrador asociadas, que incluyen:<ul><li>Agregar o quitar usuarios de grupos</li><li>Agregar o quitar administradores de grupos de usuarios de grupos |

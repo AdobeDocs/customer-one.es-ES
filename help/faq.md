@@ -3,9 +3,11 @@ keywords: FAQ;preguntas frecuentes
 title: Preguntas frecuentes sobre Adobe Business Platform and Admin Console
 description: Preguntas frecuentes sobre Adobe Workfront
 exl-id: a0e9f153-bb2d-4077-a957-bf6bfcb44dfd
-source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: ht
-source-wordcount: '496'
+TQID: https://experienceleague.adobe.com/6lxvN0hmXbETV9v2VXDv3R7zxrua37YlFb9hSWfG5Gg
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+workflow-type: tm+mt
+source-wordcount: 507
 ht-degree: 100%
 
 ---
