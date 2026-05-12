@@ -4,7 +4,8 @@ description: Comunicación con el cliente sobre la nueva experiencia de atenció
 hide: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 TQID: https://experienceleague.adobe.com/7A-slw01d3JP1PTJsx-JxobzrwWPCGdQgwT2T2B8QAA
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
 workflow-type: tm+mt
 source-wordcount: 459
