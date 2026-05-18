@@ -6,7 +6,7 @@ product_v2:
 type: Documentation
 git-repo: https://github.com/AdobeDocs/customer-one.es-ES
 hide: true
-source-git-commit: b43773cf282854831f1ac616260fb529a3758d7e
+source-git-commit: 1818e64cf2339f51fb76fb1fca1cb5c170d324a6
 workflow-type: tm+mt
 source-wordcount: 125
 ht-degree: 31%
