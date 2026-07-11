@@ -6,10 +6,10 @@ exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
-source-wordcount: 391
-ht-degree: 85%
+source-wordcount: 409
+ht-degree: 86%
 
 ---
 
@@ -19,8 +19,7 @@ Nos preocupamos por nuestros clientes y por eso trabajamos para que obtengan la 
 
 ## Más información
 
-En febrero y marzo, Adobe configurará los nuevos administradores de sistemas de asistencia técnica y los usuarios de asistencia técnica en este portal. Si nuestros registros indican que actualmente actúa como administrador del sistema de asistencia en Admin Console de Adobe, o si su nombre figuraba en el contrato de compra como contacto de cliente de Adobe para implementar Adobe Campaign o Adobe Experience Manager en su organización, se le configurará como administrador del sistema de asistencia para su organización.
-Los administradores del sistema de asistencia técnica actuarán como superusuarios en Admin Console y verán los correos electrónicos generados por el sistema cada vez que se cree un usuario nuevo de asistencia técnica. Además, podrán hacer lo siguiente:
+En febrero y marzo, Adobe configurará los nuevos administradores de sistemas de asistencia técnica y los usuarios de asistencia técnica en este portal. Si nuestros registros indican que actualmente actúa como administrador del sistema de asistencia en Admin Console de Adobe, o si su nombre figuraba en el contrato de compra como contacto de cliente de Adobe para implementar Adobe Campaign o Adobe Experience Manager en su organización, se le configurará como administrador del sistema de asistencia para su organización.Los administradores del sistema de asistencia técnica actuarán como superusuarios en Admin Console y verán los correos electrónicos generados por el sistema cada vez que se cree un usuario nuevo de asistencia técnica. Además, podrán hacer lo siguiente:
 
 * Crear o eliminar usuarios de asistencia técnica en el portal y administrar las funciones de acceso
 * Aprovechar las herramientas de administración de casos que facilitan la coordinación de casos de asistencia técnica con la asistencia al cliente de Adobe
@@ -50,3 +49,4 @@ El administrador del sistema o los contactos que figuran en el contrato validar�
 * Los clientes empezarán a utilizar el sistema nuevo.
 
 Si tiene alguna pregunta relacionada con este correo electrónico, póngase en contacto con nosotros a través de la dirección [customercare@adobe.com](mailto:customercare@adobe.com).
+

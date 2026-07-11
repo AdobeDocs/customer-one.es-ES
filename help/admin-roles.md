@@ -14,7 +14,7 @@ subfeature_v2:
   - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: 1647
 ht-degree: 97%
@@ -121,8 +121,7 @@ Para agregar o invitar a un administrador del sistema:
 
 ![imagen de administrador de equipos](assets/teams-admin.png)
 
-Dado que todos los usuarios de una organización de equipos son usuarios de Business ID, reciben una invitación por correo electrónico con respecto a los nuevos privilegios administrativos de `message@adobe.com`.
-Los usuarios deben hacer clic en Empezar en el correo electrónico para unirse a la organización.
+Dado que todos los usuarios de una organización de equipos son usuarios de Business ID, reciben una invitación por correo electrónico con respecto a los nuevos privilegios administrativos de `message@adobe.com`.Los usuarios deben hacer clic en Empezar en el correo electrónico para unirse a la organización.
 
 Como parte del proceso de inicio de sesión, es posible que se pida a los usuarios que configuren un perfil de Adobe si todavía no lo tienen. Si los usuarios tienen varios perfiles asociados a su dirección de correo electrónico, deben elegir &quot;Unirse al equipo&quot; (si se les solicita) y luego seleccionar el perfil asociado a la nueva organización.
 
@@ -271,3 +270,4 @@ La siguiente tabla enumera todos los permisos para los distintos tipos de admini
 | Eliminar grupo de usuarios de la licencia del producto | ✔ | |
 | Ver miembro del grupo de usuarios | ✔ | ✔ |
 | Ver lista de grupos de usuarios | ✔ | ✔ |
+
