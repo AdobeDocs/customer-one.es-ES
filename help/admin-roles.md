@@ -5,22 +5,27 @@ exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
 subfeature_v2:
   - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
   - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+    internal-label: Organizations, Organizations (AEC)
   - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
+    internal-label: Onboarding
   - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+    internal-label: User management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: Administration
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 1647
+source-wordcount: '1647'
 ht-degree: 97%
-
 ---
-
 # Funciones de administrador
 
 Con Adobe Admin Console, las organizaciones pueden definir una jerarquía administrativa flexible que permita una administración precisa del acceso y el uso de los productos de Adobe. Uno o más administradores del sistema, proporcionados durante el proceso de incorporación empresarial, ocupan la parte superior de la jerarquía. Estos administradores del sistema pueden delegar responsabilidades en otros administradores, manteniendo al mismo tiempo el control general.
@@ -39,7 +44,7 @@ La jerarquía administrativa puede utilizarse para adaptarse a los requisitos ú
 
 >[!NOTE]
 >
->La jerarquía administrativa no se aplica a los clientes de equipos. Los clientes de equipos tienen una sola función de **Administrador del sistema**. El propietario del contrato (_anteriormente denominado **Administrador principal**&#x200B;_) es el administrador del sistema con acceso a los detalles del contrato y al historial de facturación. Si es el propietario del contrato actual, puede designar un administrador del sistema existente (_ anteriormente denominado **administrador secundario**&#x200B;_) como propietario del contrato.
+>La jerarquía administrativa no se aplica a los clientes de equipos. Los clientes de equipos tienen una sola función de **Administrador del sistema**. El propietario del contrato (_anteriormente denominado **Administrador principal**_) es el administrador del sistema con acceso a los detalles del contrato y al historial de facturación. Si es el propietario del contrato actual, puede designar un administrador del sistema existente (_ anteriormente denominado **administrador secundario**_) como propietario del contrato.
 
 ![imagen de administrador](assets/storage_admin.png)
 
@@ -121,7 +126,8 @@ Para agregar o invitar a un administrador del sistema:
 
 ![imagen de administrador de equipos](assets/teams-admin.png)
 
-Dado que todos los usuarios de una organización de equipos son usuarios de Business ID, reciben una invitación por correo electrónico con respecto a los nuevos privilegios administrativos de `message@adobe.com`.Los usuarios deben hacer clic en Empezar en el correo electrónico para unirse a la organización.
+Dado que todos los usuarios de una organización de equipos son usuarios de Business ID, reciben una invitación por correo electrónico con respecto a los nuevos privilegios administrativos de `message@adobe.com`.
+Los usuarios deben hacer clic en Empezar en el correo electrónico para unirse a la organización.
 
 Como parte del proceso de inicio de sesión, es posible que se pida a los usuarios que configuren un perfil de Adobe si todavía no lo tienen. Si los usuarios tienen varios perfiles asociados a su dirección de correo electrónico, deben elegir &quot;Unirse al equipo&quot; (si se les solicita) y luego seleccionar el perfil asociado a la nueva organización.
 
