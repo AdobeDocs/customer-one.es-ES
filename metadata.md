@@ -6,7 +6,7 @@ product_v2:
     internal-label: "CX Enterprise"
 usetq: true
 type: Documentation
-git-repo: https://github.com/AdobeDocs/customer-one.en
+git-repo: https://github.com/AdobeDocs/customer-one.es-ES
 hide: true
 source-git-commit: 7301a543be8ef0f183a46bd0ff71521c28ed530f
 workflow-type: tm+mt
