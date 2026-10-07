@@ -1,19 +1,18 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud
+solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: "CX Enterprise"
 usetq: true
 type: Documentation
 git-repo: https://github.com/AdobeDocs/customer-one.es-ES
 hide: true
-source-git-commit: 8a0a7c8f3a5f425fd23d4301e7e72a2e82649128
+source-git-commit: 7301a543be8ef0f183a46bd0ff71521c28ed530f
 workflow-type: tm+mt
-source-wordcount: 125
-ht-degree: 31%
-
+source-wordcount: '120'
+ht-degree: 32%
 ---
-
 
 # Metadatos para uso interno
 
