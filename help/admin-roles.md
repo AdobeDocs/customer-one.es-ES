@@ -2,7 +2,7 @@
 title: Funciones de administrador
 description: Con Adobe Admin Console, las organizaciones pueden definir una jerarquía administrativa flexible que permita una administración precisa del acceso y el uso de los productos de Adobe.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
-TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
+TQID: 'https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
@@ -13,7 +13,7 @@ subfeature_v2:
   - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
     internal-label: Support
   - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
-    internal-label: Organizations, Organizations (AEC)
+    internal-label: Organizations
   - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
     internal-label: Onboarding
   - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
@@ -21,7 +21,7 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
+source-git-commit: da9c6686ce4eaf590848a1fcb50269bba92a1f1a
 workflow-type: tm+mt
 source-wordcount: '1647'
 ht-degree: 97%
@@ -44,7 +44,7 @@ La jerarquía administrativa puede utilizarse para adaptarse a los requisitos ú
 
 >[!NOTE]
 >
->La jerarquía administrativa no se aplica a los clientes de equipos. Los clientes de equipos tienen una sola función de **Administrador del sistema**. El propietario del contrato (_anteriormente denominado **Administrador principal**&#x200B;_) es el administrador del sistema con acceso a los detalles del contrato y al historial de facturación. Si es el propietario del contrato actual, puede designar un administrador del sistema existente (_ anteriormente denominado **administrador secundario**&#x200B;_) como propietario del contrato.
+>La jerarquía administrativa no se aplica a los clientes de equipos. Los clientes de equipos tienen una sola función de **Administrador del sistema**. El propietario del contrato (_anteriormente denominado **Administrador principal**_) es el administrador del sistema con acceso a los detalles del contrato y al historial de facturación. Si es el propietario del contrato actual, puede designar un administrador del sistema existente (_ anteriormente denominado **administrador secundario**_) como propietario del contrato.
 
 ![imagen de administrador](assets/storage_admin.png)
 
