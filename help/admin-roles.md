@@ -44,7 +44,7 @@ La jerarquía administrativa puede utilizarse para adaptarse a los requisitos ú
 
 >[!NOTE]
 >
->La jerarquía administrativa no se aplica a los clientes de equipos. Los clientes de equipos tienen una sola función de **Administrador del sistema**. El propietario del contrato (_anteriormente denominado **Administrador principal**_) es el administrador del sistema con acceso a los detalles del contrato y al historial de facturación. Si es el propietario del contrato actual, puede designar un administrador del sistema existente (_ anteriormente denominado **administrador secundario**_) como propietario del contrato.
+>La jerarquía administrativa no se aplica a los clientes de equipos. Los clientes de equipos tienen una sola función de **Administrador del sistema**. El propietario del contrato (_anteriormente denominado **Administrador principal**&#x200B;_) es el administrador del sistema con acceso a los detalles del contrato y al historial de facturación. Si es el propietario del contrato actual, puede designar un administrador del sistema existente (_ anteriormente denominado **administrador secundario**&#x200B;_) como propietario del contrato.
 
 ![imagen de administrador](assets/storage_admin.png)
 
